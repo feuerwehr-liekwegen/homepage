@@ -30,7 +30,7 @@ none = "none"
 
 [[footer]]
 name = "Impressum"
-url = "über-uns/kontakt/#impressum"
+url = "/über-uns/kontakt/#impressum"
 identifier = "ewfz9onNUI"
 weight = 9998
 
