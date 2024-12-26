@@ -9,5 +9,6 @@ displayName = "DE"
 isoCode = "de"
 rtl = false
 dateFormat = "2. January 2006"
-logo = "Logo.png"
+logo = "Logo_black.png"
+secondaryLogo = "Logo_white.png"
 description = "Feuerwehr Liekwegen"
