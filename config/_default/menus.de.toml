@@ -29,6 +29,12 @@ weight = 9999
 none = "none"
 
 [[footer]]
+name = "Impressum"
+url = "über-uns/kontakt/#impressum"
+identifier = "ewfz9onNUI"
+weight = 9998
+
+[[footer]]
 name = "Instagram"
 url = "https://instagram.com/feuerwehr.liekwegen"
 identifier = "B2wvgay90r"
@@ -38,4 +44,4 @@ weight = 9999
 name = "Facebook"
 url = "https://www.facebook.com/feuerwehrliekwegen/"
 identifier = "AaIUDA9asu"
-weight = 999
+weight = 9999

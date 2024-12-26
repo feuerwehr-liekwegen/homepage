@@ -13,3 +13,4 @@ Die Jugendfeuerwehr ist für alle Jugendlichen zwischen 10 und 18 Jahren. Ab 16 
 ## Wo kann ich mich anmelden?
 Mit unserem [**Mitgliedsformular**](/files/Beitrittsformular_Jugendfeuerwehr.pdf). Einfach persönlich vorbeibringen, am besten zum nächsten Dienst.
 Einen aktuellen Dienstplan findest du [**hier**](/files/Dienstplan_JF.pdf).
+
