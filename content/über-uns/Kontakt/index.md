@@ -5,13 +5,21 @@ draft: false
 description: "Bei Redebedarf"
 tags: ["über-uns"]
 ---
-## Kontakt
-### Ortsbrandmeister
-Björn Held
+## Ortsbrandmeister:
+Björn Held: ortsbm@liekwegen.ff-nienstaedt.de
 
-ortsbm@liekwegen.ff-nienstaedt.de
+#### Stellvertreter:
+Justin Zimmermann: stv_ortsbm@liekwegen.ff-nienstaedt.de
 
-### Stellvertretender Ortsbrandmeister
-Justin Zimmermann
+## Jugendfeuerwehrwart:
+Florian Ernst: jfw@liekwegen.ff-nienstaedt.de
 
-stv_ortsbm@liekwegen.ff-nienstaedt.de
+#### Stellvertreter:
+Joshua Rolke: stv_jfw@liekwegen.ff-nienstaedt.de
+
+## Kinderfeuerwehrwartin:
+Agnes Steuer: kfw@liekwegen.ff-nienstaedt.de
+
+#### Stellvertreter:
+Jannik Aumann: stv_kfw@liekwegen.ff-nienstaedt.de
+
