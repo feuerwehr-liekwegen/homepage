@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate><atom:link href="/tags/%C3%BCber-uns/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/%C3%BCber-uns/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Kontakt</title>
+      <link>/%C3%BCber-uns/kontakt/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/%C3%BCber-uns/kontakt/</guid>
+      <description>Kontakt Ortsbrandmeister Björn Held</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/%C3%BCber-uns/kontakt/featured.jpg" />
+    </item>
     
     <item>
       <title>Kinderfeuerwehr</title>

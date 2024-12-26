@@ -51,13 +51,19 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>/%C3%BCber-uns/kinderfeuerwehr/</loc>
-    <lastmod>2006-01-01T00:00:00+00:00</lastmod>
+    <loc>/%C3%BCber-uns/kontakt/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
     <loc>/%C3%BCber-uns/</loc>
+    <lastmod>2024-12-01T00:00:00+00:00</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>/%C3%BCber-uns/kinderfeuerwehr/</loc>
     <lastmod>2006-01-01T00:00:00+00:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>

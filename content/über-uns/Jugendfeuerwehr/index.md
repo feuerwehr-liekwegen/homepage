@@ -11,4 +11,5 @@ Zeltlager und Wettbewerbe nicht fehlen.
 ## Wie alt muss ich sein?
 Die Jugendfeuerwehr ist für alle Jugendlichen zwischen 10 und 18 Jahren. Ab 16 Jahren kannst du in die Einsatzabteilung übertreten.
 ## Wo kann ich mich anmelden?
-Gleich **hier** bei unseren Mitgliedsformularen. Einen aktuellen Dienstplan findest du **hier**
+Mit unserem [**Mitgliedsformular**](/files/Beitrittsformular_Jugendfeuerwehr.pdf). Einfach persönlich vorbeibringen, am besten zum nächsten Dienst.
+Einen aktuellen Dienstplan findest du [**hier**](/files/Dienstplan_JF.pdf).

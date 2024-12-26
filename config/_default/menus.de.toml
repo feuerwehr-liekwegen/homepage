@@ -5,13 +5,13 @@ none = "none"
 name = "Aktuelles"
 pageRef = "aktuelles"
 identifier = "jy3g4yauvU"
-weight = 9999
+weight = 9998
 
 [[main]]
 name = "Einsätze"
 pageRef = "einsätze"
 identifier = "UGhZYTK6Jw"
-weight = 9999
+weight = 9998
 
 [[main]]
 name = "Über uns"
