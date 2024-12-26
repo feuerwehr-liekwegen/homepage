@@ -1,0 +1,13 @@
+disabled = false
+languageCode = "de"
+languageName = "Deutsch"
+weight = 1
+title = "Feuerwehr Liekwegen"
+
+[params]
+displayName = "DE"
+isoCode = "de"
+rtl = false
+dateFormat = "2. January 2006"
+logo = "Logo.png"
+description = "Feuerwehr Liekwegen"
