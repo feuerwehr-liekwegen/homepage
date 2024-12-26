@@ -5,9 +5,15 @@ draft: false
 description: ""
 tags: ["einsätze"]
 ---
-## Alarmstichwort
-B2 Feuer Gebäude
-## Einsatzort
-Südhorsten
-## Alarmierungszeit
-17:35
+{{< timeline >}}
+  {{< timelineItem icon="fire" header="Alarmstichwort" >}}
+    B2 Feuer Gebäude
+  {{< /timelineItem >}}
+  {{< timelineItem header="Einsatzort" icon="location-dot">}}
+    Südhorsten
+  {{< /timelineItem >}}
+  {{< timelineItem header="Alarmierungszeit" icon="bell">}}
+    17:35
+  {{< /timelineItem >}}
+
+{{< /timeline >}}
