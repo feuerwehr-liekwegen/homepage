@@ -23,11 +23,11 @@ Agnes Steuer: kfw@liekwegen.ff-nienstaedt.de
 #### Stellvertreter:
 Jannik Aumann: stv_kfw@liekwegen.ff-nienstaedt.de
 
-# Impressum
-Schulstraße 29a
+<br><br>
 
+# Impressum
+Schulstraße 29a\
 31688 Nienstädt
 
-__Vertreten durch:__
+__Vertreten durch:__\
 Ortsbrandmeister Björn Held
-
