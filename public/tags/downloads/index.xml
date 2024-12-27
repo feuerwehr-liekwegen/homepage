@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>downloads on Feuerwehr Liekwegen</title>
-    <link>/tags/downloads/</link>
+    <link>https://feuerwehr-liekwegen.de/tags/downloads/</link>
     <description>Recent content in downloads on Feuerwehr Liekwegen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/downloads/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://feuerwehr-liekwegen.de/tags/downloads/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Dienstpläne</title>
-      <link>/downloads/dienstpl%C3%A4ne/</link>
+      <link>https://feuerwehr-liekwegen.de/downloads/dienstpl%C3%A4ne/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>/downloads/dienstpl%C3%A4ne/</guid>
+      <guid>https://feuerwehr-liekwegen.de/downloads/dienstpl%C3%A4ne/</guid>
       <description> Einsatzabteilung Jugendfeuerwehr </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/downloads/dienstpl%C3%A4ne/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://feuerwehr-liekwegen.de/downloads/dienstpl%C3%A4ne/featured.jpg" />
     </item>
     
     <item>
       <title>Infomaterial</title>
-      <link>/downloads/infomaterial/</link>
+      <link>https://feuerwehr-liekwegen.de/downloads/infomaterial/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>/downloads/infomaterial/</guid>
+      <guid>https://feuerwehr-liekwegen.de/downloads/infomaterial/</guid>
       <description> Flyer Feuerwehr Liekwegen Flyer JF &amp;amp; KF Ruhezeiten nach Einsätzen </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/downloads/infomaterial/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://feuerwehr-liekwegen.de/downloads/infomaterial/featured.jpg" />
     </item>
     
     <item>
       <title>Formulare</title>
-      <link>/downloads/formulare/</link>
+      <link>https://feuerwehr-liekwegen.de/downloads/formulare/</link>
       <pubDate>Thu, 18 Aug 1910 00:00:00 +0000</pubDate>
       
-      <guid>/downloads/formulare/</guid>
+      <guid>https://feuerwehr-liekwegen.de/downloads/formulare/</guid>
       <description> Beitrittsformular Einsatzabteilung / Passiv Beitrittsformular Jugendfeuerwehr Beitrittsformular Kinderfeuerwehr Beitrittserklärung Förderverein JF Einverständniserklärung Newsletter </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/downloads/formulare/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://feuerwehr-liekwegen.de/downloads/formulare/featured.jpg" />
     </item>
     
   </channel>

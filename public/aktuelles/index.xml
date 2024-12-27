@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Aktuelles on Feuerwehr Liekwegen</title>
-    <link>/aktuelles/</link>
+    <link>https://feuerwehr-liekwegen.de/aktuelles/</link>
     <description>Recent content in Aktuelles on Feuerwehr Liekwegen</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de</language>
     <copyright>© 2024 </copyright>
-    <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/aktuelles/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://feuerwehr-liekwegen.de/aktuelles/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
       <title>Frohe Weihnachten</title>
-      <link>/aktuelles/1735221360532-frohe-weihnachten/</link>
+      <link>https://feuerwehr-liekwegen.de/aktuelles/1735221360532-frohe-weihnachten/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>/aktuelles/1735221360532-frohe-weihnachten/</guid>
+      <guid>https://feuerwehr-liekwegen.de/aktuelles/1735221360532-frohe-weihnachten/</guid>
       <description> Wir wünschen allen Mitgliedern &amp;amp; Freunden der Feuerwehr Liekwegen, sowie allen Bürgerinnen und Bürgern der Gemeinde Nienstädt frohe Weihnachten </description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="/aktuelles/1735221360532-frohe-weihnachten/featured.jpg" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://feuerwehr-liekwegen.de/aktuelles/1735221360532-frohe-weihnachten/featured.jpg" />
     </item>
     
   </channel>
