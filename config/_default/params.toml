@@ -57,6 +57,7 @@ showAuthorsBadges = false
 showWordCount = false
 showZenMode = false
 heroStyle = "basic"
+sharingLinks = ["facebook","whatsapp","email"]
 
 [list]
 showHero = false
