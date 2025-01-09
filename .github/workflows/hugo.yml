@@ -44,8 +44,9 @@ jobs:
           hugo \
             --minify
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
+          name: public
           path: ./public
 
   deploy:
@@ -53,6 +54,11 @@ jobs:
     needs: build
     if: github.ref_name == 'main'
     steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: public
+          path: ./public
       - name: Deploy production
         uses: easingthemes/ssh-deploy@v5.1.0
         with:
@@ -68,6 +74,11 @@ jobs:
     needs: build
     if: github.ref_name == 'staging'
     steps:
+      - name: Download artifact
+        uses: actions/download-artifact@v4
+        with:
+          name: public
+          path: ./public
       - name: Deploy staging
         uses: easingthemes/ssh-deploy@v5.1.0
         with:
