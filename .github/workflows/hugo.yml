@@ -46,7 +46,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-artifact@v4
         with:
-          name: public
+          name: webroot
           path: ./public
 
   deploy:
@@ -57,7 +57,7 @@ jobs:
       - name: Download artifact
         uses: actions/download-artifact@v4
         with:
-          name: public
+          name: webroot
           path: ./public
       - name: Deploy production
         uses: easingthemes/ssh-deploy@v5.1.0
@@ -77,7 +77,7 @@ jobs:
       - name: Download artifact
         uses: actions/download-artifact@v4
         with:
-          name: public
+          name: webroot
           path: ./public
       - name: Deploy staging
         uses: easingthemes/ssh-deploy@v5.1.0
