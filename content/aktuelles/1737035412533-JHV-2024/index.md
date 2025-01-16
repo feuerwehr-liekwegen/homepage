@@ -7,7 +7,7 @@ tags: ["aktuelles"]
 ---
 
 Um noch einmal auf das vergangenen Jahr 2024 zu blicken, fand am vergangenen Wochenende unsere Jahreshauptversammlung statt!
-Der Schulungsraum im Gerätehaus in der Schulstraße war - wie jedes Jahr - sehr gut gefüllt. Es konnte - außer den Kameraden der Einsatzabteilung - viele passive Mitglieder und Gäste aus Politik und Feuerwehr begrüßt werden.
+Der Schulungsraum im Gerätehaus in der Schulstraße war - wie jedes Jahr - sehr gut gefüllt. Es konnten - außer den Kameraden der Einsatzabteilung - viele passive Mitglieder und Gäste aus Politik und Feuerwehr begrüßt werden.
 
 Hier nun aber zu den harten Fakten: 
 
