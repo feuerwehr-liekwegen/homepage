@@ -102,10 +102,6 @@ cardViewScreenWidth = false
 [fathomAnalytics]
 
 [umamiAnalytics]
-websiteid = "32341a18-15ca-4c02-8b6c-75eed0104a37"
-domain = "umami.tjsh.de"
-dataDomains = "feuerwehr-liekwegen.de,www.feuerwehr-liekwegen.de"
-enableTrackEvent = false
 
 [selineAnalytics]
 
