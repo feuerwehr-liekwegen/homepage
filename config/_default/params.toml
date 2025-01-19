@@ -34,8 +34,8 @@ homepageImage = "IMG_0707.JPG"
 
 [article]
 showDate = true
-showViews = false
-showLikes = false
+showViews = true
+showLikes = true
 showDateOnlyInArticle = false
 showDateUpdated = false
 showAuthor = false
@@ -65,8 +65,8 @@ layoutBackgroundBlur = true
 layoutBackgroundHeaderSpace = true
 showBreadcrumbs = false
 showSummary = false
-showViews = false
-showLikes = false
+showViews = true
+showLikes = true
 showTableOfContents = false
 showCards = false
 orderByWeight = false
@@ -104,7 +104,7 @@ cardViewScreenWidth = false
 [umamiAnalytics]
 websiteid = "32341a18-15ca-4c02-8b6c-75eed0104a37"
 domain = "umami.tjsh.de"
-dataDomains = "feuerwehr-liekwegen.de,staging.feuerwehr-liekwegen.de"
+dataDomains = "feuerwehr-liekwegen.de,www.feuerwehr-liekwegen.de"
 enableTrackEvent = true
 
 [selineAnalytics]
