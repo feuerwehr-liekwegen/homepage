@@ -57,7 +57,7 @@ showAuthorsBadges = false
 showWordCount = false
 showZenMode = false
 heroStyle = "basic"
-sharingLinks = ["facebook","whatsapp","email"]
+sharingLinks = ["facebook", "whatsapp", "email"]
 
 [list]
 showHero = false
@@ -76,7 +76,7 @@ cardViewScreenWidth = false
 constrainItemsWidth = false
 
 [sitemap]
-excludedKinds = [ "taxonomy", "term" ]
+excludedKinds = ["taxonomy", "term"]
 
 [taxonomy]
 showTermCount = true
@@ -102,6 +102,10 @@ cardViewScreenWidth = false
 [fathomAnalytics]
 
 [umamiAnalytics]
+websiteid = "32341a18-15ca-4c02-8b6c-75eed0104a37"
+domain = "umami.tjsh.de"
+dataDomains = "feuerwehr-liekwegen.de,staging.feuerwehr-liekwegen.de"
+enableTrackEvent = true
 
 [selineAnalytics]
 
