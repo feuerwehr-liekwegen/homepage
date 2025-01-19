@@ -17,8 +17,8 @@ An alle Spenderinnen und Spender noch ein herzliches Dankeschön!
 Außerdem einen großen Dank an die FF Hespe, die uns für diesen Tag Ihren MTW zur Verfügung gestellt hat!
 
 {{< gallery >}}
-    <img src="gallery/1.jpg" class="grid-w33" />
     <img src="gallery/2.jpg" class="grid-w33" />
     <img src="gallery/3.jpg" class="grid-w33" />
     <img src="gallery/4.jpg" class="grid-w33" />
+    <img src="gallery/1.jpg" class="grid-w33" />
 {{< /gallery >}}
