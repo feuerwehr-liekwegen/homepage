@@ -26,13 +26,8 @@ Jannik Aumann: stv_kfw@liekwegen.ff-nienstaedt.de
 <br><br>
 
 # Impressum
-Feuerwehr Liekwegen
-Schulstraße 29a
+Schulstraße 29a\
 31688 Nienstädt
 
 __Vertreten durch:__\
 Ortsbrandmeister Björn Held
-Telefon: 0152 244 11 112
-Email: ortsbm@liekwegen.ff-nienstaedt.de
-
-Quelle: [eRecht24](https://www.e-recht24.de)
