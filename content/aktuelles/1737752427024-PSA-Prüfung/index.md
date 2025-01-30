@@ -1,6 +1,6 @@
 ---
 title: "PSA Prüfung 2025"
-date: 2025-01-24
+date: 2025-01-25
 draft: false
 description: "Schick in Schale? Nicht ganz – aber sicher unterwegs! 👩‍🚒✔"
 tags: ["aktuelles"]
