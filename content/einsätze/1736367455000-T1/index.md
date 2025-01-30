@@ -1,19 +1,19 @@
 ---
-title: "B2 Feuer Gebäude"
-date: 2024-12-14
+title: "Türöffnung"
+date: 2025-01-08
 draft: false
 description: "Wir waren im Einsatz!"
 tags: ["einsätze"]
 ---
 {{< timeline >}}
-  {{< timelineItem icon="fire" header="Alarmstichwort" >}}
-    B2 Feuer Gebäude
+  {{< timelineItem icon="pgpkey" header="Alarmstichwort" >}}
+    T1 Türöffnung
   {{< /timelineItem >}}
   {{< timelineItem header="Einsatzort" icon="location-dot">}}
-    Südhorsten
+    Sülbeck
   {{< /timelineItem >}}
   {{< timelineItem header="Alarmierungszeit" icon="bell">}}
-    17:35
+    22:07
   {{< /timelineItem >}}
 
 {{< /timeline >}}

@@ -1,19 +1,19 @@
 ---
-title: "B2 Feuer Gebäude"
-date: 2024-12-14
+title: "Ausgelöste Brandmeldeanlage"
+date: 2025-01-30
 draft: false
 description: "Wir waren im Einsatz!"
 tags: ["einsätze"]
 ---
 {{< timeline >}}
-  {{< timelineItem icon="fire" header="Alarmstichwort" >}}
-    B2 Feuer Gebäude
+  {{< timelineItem icon="circle-info" header="Alarmstichwort" >}}
+    B-BMA1 - ausgelöste Brandmeldeanlage
   {{< /timelineItem >}}
   {{< timelineItem header="Einsatzort" icon="location-dot">}}
-    Südhorsten
+    Nienstädt
   {{< /timelineItem >}}
   {{< timelineItem header="Alarmierungszeit" icon="bell">}}
-    17:35
+    09:36
   {{< /timelineItem >}}
 
 {{< /timeline >}}
