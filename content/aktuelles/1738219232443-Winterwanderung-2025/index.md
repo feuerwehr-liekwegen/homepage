@@ -4,8 +4,9 @@ date: 2025-01-30
 draft: false
 description: "Einladung zur Winterwandung am 22. Februar 2025"
 tags: ["aktuelles"]
-showHero: true
-heroStyle: big
+showHero: false
+showSummary: true
+summary: Anmeldung bis zum 16.02.2025
 ---
 
 {{< lead >}}
@@ -14,7 +15,6 @@ Einladung zur Winterwandung am 22. Februar 2025
 
 {{< figure
     src="featured.jpg"
-    caption="Foto: [Pixabay.com Michoff](https://pixabay.com/de/users/michoff-10798847/)"
     >}}
 
 Der Tag beginnt um 9:30 Uhr mit einem Frühstück im Feuerwehrhaus. Danach starten wir zu der ca. 8km langen Wanderung auf (Schnatgang Liekwegen – Sülbeck). Ab ca. 13:30 Uhr wollen wir es uns bei gekühlten Getränken und einer deftigen Suppe gut gehen lassen. Um ca. 18:00 Uhr lassen wir das gemütliche Zusammensein ausklingen.
