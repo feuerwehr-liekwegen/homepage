@@ -21,7 +21,7 @@ Der Tag beginnt um 9:30 Uhr mit einem Frühstück im Feuerwehrhaus. Danach start
 
 Wir freuen uns auf eine rege Teilnahme! Und falls jemand nicht mitwandern kann, dann ist er gern zum Frühstück und Mittagessen willkommen! 
 
-Die Teilnahmekosten liegen bei 17€ pro Person und sind bitte bis zum 16. Februar 2025 zu überweisen. Weitere Details (Bankverbindung, Kontaktdaten für Rückfragen) enthält der Einladungs-Flyer.
+Die Teilnahmekosten liegen bei 17€ pro Person und sind bitte bis zum 16. Februar 2025 zu überweisen. Weitere Details (Bankverbindung, Kontaktdaten für Rückfragen) enthält der Einladungs-Flyer:
 
 {{< button href="files/Winterwanderung_2025.pdf" target="_blank" >}}
 Flyer herunterladen
