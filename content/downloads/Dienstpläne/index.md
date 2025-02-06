@@ -7,3 +7,4 @@ tags: ["downloads"]
 ---
 # [Einsatzabteilung](/files/Dienstplan_Einsatzabteilung.pdf)
 # [Jugendfeuerwehr](/files/Dienstplan_JF.pdf)
+# [Kinderfeuerwehr](/files/Dienstplan_KF.pdf)
