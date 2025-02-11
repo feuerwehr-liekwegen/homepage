@@ -7,7 +7,7 @@ description: "Einheitliche Notrufnummer 112"
 tags: ["aktuelles"]
 ---
 {{< figure
-    src="featured.jpg"
+    src="featured.png"
     caption="Foto: © Europe Direct Stuttgart 2022, Quelle: http://www.notruf-112-europaweit.de/"
     >}}
 
