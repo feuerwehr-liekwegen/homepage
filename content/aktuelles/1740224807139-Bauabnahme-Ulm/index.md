@@ -28,7 +28,7 @@ Ein unvergesslicher Moment! Denn bei der sogenannten Zwischenbauabnahme konnten 
 Nicht ohne Grund reisten wir mit einem VW Crafter an: Der Großteil unserer aktuellen Ausrüstung wird aus unserem bisherigen TSF-W übernommen. Dafür wurde das Fahrzeug fast vollständig leergeräumt und die Beladung nach Ulm transportiert. 
 Doch keine Sorge – unsere Einsatzfähigkeit bleibt gewährleistet! Unser TSF-W wurde übergangsweise mit Reservematerial aus dem Bestand der Samtgemeindefeuerwehr bestückt. Ein herzliches Dankeschön an Jan Schmöe und sein Team für die schnelle Unterstützung!
 
-Ein Blick hinter die Kulissen & ein Termin zum Vormerken
+### Ein Blick hinter die Kulissen & ein Termin zum Vormerken
 Nach der erfolgreichen Bauabnahme hatten wir die Gelegenheit, einen exklusiven Blick in die „heiligen Hallen“ von Magirus zu werfen. Spannende Einblicke in die Fahrzeugtechnik, ein abendlicher Rundgang durch die Ulmer Altstadt – und dann ging es zurück nach Liekwegen.
 
 Und jetzt ist es offiziell: Anfang April 2025 wird unser neues LF10 ausgeliefert! Wir halten euch auf dem Laufenden!
