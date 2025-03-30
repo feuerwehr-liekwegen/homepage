@@ -13,13 +13,17 @@ showDate: false
 
 {{< timeline >}}
   {{< timelineItem icon="list" header="Programm" >}}
-    - Fahrzeugvorstellung LF10
-    - Osterhase für Kinder
-    - Spielmannszug Liekwegen
+    <ul>
+    <li>Fahrzeugvorstellung LF10</li>
+    <li>Osterhase für Kinder</li>
+    <li>Spielmannszug Liekwegen</li>
+    </ul>
   {{< /timelineItem >}}
-  {{< timelineItem header="Verpflegung" icon="utensils-solid">}}
-    - Bratwurst & Pommesbude
-    - Frische Waffeln
-    - Bier, Sekt & alkoholfreie Getränke
+  {{< timelineItem header="Verpflegung" icon="circle-info">}}
+    <ul>
+    <li>Bratwurst & Pommesbude</li>
+    <li>Frische Waffeln</li>
+    <li>Bier, Sekt & alkoholfreie Getränke</li>
+    </ul>
   {{< /timelineItem >}}
 {{< /timeline >}}
