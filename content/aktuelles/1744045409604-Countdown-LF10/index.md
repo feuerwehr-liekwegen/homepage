@@ -13,4 +13,5 @@ Ungefähr zu dieser Uhrzeit ist unser neues LF10 in Liekwegen eingetroffen. Hier
     <img src="gallery/Abfahrt_Ulm.jpg" class="grid-w33" />
     <img src="gallery/On_the_road.jpg" class="grid-w33" />
     <img src="gallery/Beifahrer.jpg" class="grid-w33" />
+    <img src="featured.jpg" class="grid-w66" />
 {{< /gallery>}}
