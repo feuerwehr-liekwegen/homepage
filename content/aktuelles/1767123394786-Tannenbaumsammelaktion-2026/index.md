@@ -26,6 +26,11 @@ und wünscht ein frohes neues Jahr 2026.
 📩 Kontakt: jfw@liekwegen.ff-nienstaedt.de
 
 
+Weitere Abholmöglichkeiten findet ihr im Artikel der Schaumburger Nachrichten:
+
+{{< button href="https://www.sn-online.de/lokales/schaumburg/sachsenhagen/weihnachtsbaum-entsorgen-in-schaumburg-2025-die-abholorte-im-ueberblick-HPM23UPXOVH3DLSKZFIHB3EHXI.html" target="_blank" >}}
+Zum SN-Artikel
+{{< /button >}}
 
 {{< figure
     src="flyer.jpeg"
