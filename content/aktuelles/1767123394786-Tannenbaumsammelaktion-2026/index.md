@@ -1,6 +1,6 @@
 ---
-title: "Tannenbaumaktion 2026 in Liekwegen"
-summary: "Die Jugendfeuerwehr Liekwegen sammelt am Samstag, den 10. Januar 2026, wieder ausgediente Weihnachtsbäume ein."
+title: "UPDATE: Tannenbaumaktion 2026 in Liekwegen"
+summary: "Die Sammelaktion wird aufgrund der Witterung auf den 17. Januar verschoben."
 showSummary: true
 description: "Flyer für die Tannenbaumaktion 2026 der Jugendfeuerwehr Liekwegen"
 date: 2026-01-10
@@ -8,6 +8,10 @@ draft: false
 showHero: false
 tags: ["aktuelles"]
 ---
+{{< alert >}}
+**Aufgrund des bisherigen Schneefalls, den Straßenverhältnissen, den Temperaturen und wegen der Sicherheit unserer Kinder- und Jugendlichen, müssen wir schweren Herzens die Tannenbaumsammelaktion heute absagen. Diese wird auf nächsten Samstag, den 17.01. verschoben.**
+{{< /alert >}}
+
 Die Jugendfeuerwehr Liekwegen sammelt am Samstag, den 10. Januar 2026, wieder ausgediente Weihnachtsbäume ein.
 
 
