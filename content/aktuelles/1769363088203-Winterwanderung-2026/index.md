@@ -19,6 +19,6 @@ Um ca. 18 Uhr lassen wir das gemütliche Zusammensein ausklingen. Falls jemand n
 
 Die Teilnahmekosten liegen bei 17€ pro Person und sind bitte bis zum 19. Februar 2026 zu überweisen. Weitere Details (Bankverbindung, Kontaktdaten für Rückfragen) enthält der Einladungs-Flyer:
 
-{{< button href="files/Winterwanderung_2026.pdf" target="_blank" >}}
+{{< button href="Winterwanderung_2026.pdf" target="_blank" >}}
 Flyer herunterladen
 {{< /button >}}
