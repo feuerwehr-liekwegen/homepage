@@ -1,6 +1,7 @@
 ---
 title: "Winterwanderung 2026"
-date: 2026-02-28
+date: 2026-01-28
+showDate: false
 draft: false
 description: "Einladung zur Winterwandung am 28. Februar 2026"
 tags: ["aktuelles"]
