@@ -3,8 +3,9 @@ title: "Osterfeuer 2026"
 date: 2026-04-04
 draft: false
 description: "Infos zum Osterfeuer 2026"
-showBreadcrumbs: false
-showDate: false
+tags: ["aktuelles"]
+showBreadcrumbs: true
+showDate: true
 ---
 
 # Ostersamstag, 04.04.2026 um 18:00 Uhr, gegenüber des Feuerwehrhauses Liekwegen
