@@ -8,7 +8,7 @@ showBreadcrumbs: true
 showDate: true
 ---
 
-# Ostersamstag, 04.04.2026 um 18:00 Uhr, gegenüber des Feuerwehrhauses Liekwegen
+# Ostersamstag, 04.04.2026 um 18:00 Uhr, gegenüber dem Feuerwehrhaus in Liekwegen
 
 ## Grünschnittanlieferung am Gründonnerstag, 02.04.2026 10:00 - 18:00 Uhr
 
