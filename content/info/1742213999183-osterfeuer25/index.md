@@ -11,6 +11,12 @@ showDate: false
 
 ## Grünschnittanlieferung am Gründonnerstag, 02.04.2026 10:00 - 18:00 Uhr
 
+{{< alert >}}
+**Was gehört ins Osterfeuer - was nicht?**
+{{< /alert >}}
+
+Erlaubt sind unbehandeltes Holz sowie trockener Strauch- und Baumschnitt. Abfälle, behandeltes Holz, Kunststoff und anderer Unrat haben im Osterfeuer nichts zu suchen. Dicke Stämme und Wurzeln werden nicht angenommen.
+
 {{< timeline >}}
   {{< timelineItem icon="list" header="Programm" >}}
     <ul>
